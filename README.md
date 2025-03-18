@@ -20,19 +20,38 @@
 
 - [Declaring and assigning variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 
-- Strings
-  - [Grammar & types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#literals)
-  - [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+### Strings
 
-- Numbers
-  - [Number](https://developer.mozilla.org/en-US/docs/Glossary/Number)
-  - [Infinity](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity)
-  - [NaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
-  - [Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+- [Grammar & types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#literals)
+- [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+### Numbers
+
+- [Number](https://developer.mozilla.org/en-US/docs/Glossary/Number)
+- [Infinity](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity)
+- [NaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
+- [Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+
+### Boolean
 
 - [Boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
 
-- Mutability
-  - [let](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
-  - [const](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+### Mutability
+  
+- [let](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+- [const](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+
+## Objects & arrays
+
+###  Object:
+
+- [Working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- [Object initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
+- [Global object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+
+### Arrays
+
+- [Grammar](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#array_literals)
+- [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
 
