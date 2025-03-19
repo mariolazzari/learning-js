@@ -62,3 +62,41 @@
 ### Regex
 - [MDN Regex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 - [RegEx](http://regex.info/book.html)
+
+## Operators
+
+### Comparisons
+
+- [Equality](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)
+- [Relationla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#relational_operators)
+
+### Arithmetic
+
+- [Atihmetic](https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Expressions_and_Operators#Arithmetic_operators)
+- [String](https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Expressions_and_Operators#String_operators)
+
+### Logical
+
+- [Operators](https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Expressions_and_Operators#Logical_operators)
+
+### If statement
+
+- [if - else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+
+### Switch statement
+
+-[switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+
+### If (one line)
+
+-  [Errors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#if...else_statement)
+-  [Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
+
+### Ternary operator
+
+- [Ternary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+
+### Types checking
+
+- [typeof](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
+- [isNaN](https://lodash.com/docs/#isNumber)
