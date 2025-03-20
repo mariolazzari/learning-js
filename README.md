@@ -135,3 +135,7 @@
 ### References
 
 - [Calvin & hobbies](https://en.wikipedia.org/wiki/Calvin_and_Hobbes)
+
+### Functions are objects
+
+- [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
