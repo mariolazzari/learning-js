@@ -119,3 +119,12 @@
 
 - [while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 - [do while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while)
+
+## Functions
+
+### Basics
+
+- [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
+- [Statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
+
