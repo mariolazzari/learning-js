@@ -12,10 +12,12 @@ for (let i = 0; i < pageNames.length; i += 1) {
   console.log(i, pageNames[i]);
 }
 
+// for in
 for (var p in pageNames) {
   console.log(p, pageNames[p]);
 }
 
+// for of
 for (var v of pageNames) {
   console.log(v);
 }
