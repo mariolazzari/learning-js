@@ -128,3 +128,10 @@
 - [Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
 - [Statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
 
+### Arguments and Parameters
+
+### More about arguments
+
+### References
+
+- [Calvin & hobbies](https://en.wikipedia.org/wiki/Calvin_and_Hobbes)
