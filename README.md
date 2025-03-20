@@ -100,3 +100,22 @@
 
 - [typeof](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
 - [isNaN](https://lodash.com/docs/#isNumber)
+
+## Loops
+
+### Sequential
+
+- [Iterators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement)
+- [for](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+
+### Enumerative
+
+- [for in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+- [for of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+
+### Sets & maps
+
+### While
+
+- [while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+- [do while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while)
