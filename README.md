@@ -139,3 +139,25 @@
 ### Functions are objects
 
 - [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+
+### Functions scope
+
+- [Funciton scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_scope)
+- [let](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+- [const](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+
+### Arrow functions
+
+- [Arrow fnctions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+### Rest operator
+
+- [...](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+
+### Callback functions
+
+- [Callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+- [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+- [every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
+
